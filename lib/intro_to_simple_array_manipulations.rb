@@ -7,6 +7,6 @@ def using_unshift(array, string)
 end
 
 def defusing_pop(array)
-  array.pop
+  e = array.pop
 end
 
